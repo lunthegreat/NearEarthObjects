@@ -3,7 +3,7 @@
 
 See `README.md` for a detailed discussion of this project.
 
-This script can be invoked from the command line::
+This script can be invoked from the command line:: mopppppppppp
 
     $ python3 main.py {inspect,query,interactive} [args]
 
